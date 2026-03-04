@@ -1,4 +1,4 @@
-Cancelamentos de clientes. !Esse projeto tem como objetivo analisar os problemas de cancelamento da empresa!
+!Esse projeto tem como objetivo analisar os problemas de cancelamentos de clientes na empresa
 
 Você foi contratado por uma empresa com mais de 800 mil clientes para um projeto de dados.
 Recentemente a empresa percebeu que da sua base total de clientes, a maioria são clientes
